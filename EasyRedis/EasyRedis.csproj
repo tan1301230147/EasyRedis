@@ -6,6 +6,8 @@
     <Version>1.0.1</Version>
     <PackageIcon>icon.jpg</PackageIcon>
     <PackageIconUrl />
+    <PackageProjectUrl>https://github.com/tan1301230147/EasyRedis</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tan1301230147/EasyRedis</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
