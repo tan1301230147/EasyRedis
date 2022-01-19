@@ -18,6 +18,10 @@
     <Compile Remove="EasyRedis\**" />
     <EmbeddedResource Remove="EasyRedis\**" />
     <None Remove="EasyRedis\**" />
+    <None Include="..\..\..\..\Desktop\icon.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
