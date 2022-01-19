@@ -4,7 +4,7 @@ namespace EasyRedis.Init
 {
     /// <summary>
     /// redis配置文件信息
-    /// 也可以放到配置文件去
+    /// 也可以放到配置文件去 
     /// </summary>
     public static class RedisConfigInfo
     {

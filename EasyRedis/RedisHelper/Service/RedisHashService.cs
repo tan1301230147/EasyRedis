@@ -10,7 +10,7 @@ namespace EasyRedis.Service
 {
     /// <summary>
     /// Hash:类似dictionary，通过索引快速定位到指定元素的，耗时均等，跟string的区别在于不用反序列化，直接修改某个字段
-    /// string的话要么是 001:序列化整个实体
+    /// string的话要么是 001:序列化整个实体 
     ///           要么是 001_name:  001_pwd: 多个key-value
     /// Hash的话，一个hashid-{key:value;key:value;key:value;}
     /// 可以一次性查找实体，也可以单个，还可以单个修改

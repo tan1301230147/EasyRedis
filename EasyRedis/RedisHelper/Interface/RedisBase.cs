@@ -9,7 +9,7 @@ using EasyRedis.Init;
 namespace EasyRedis.Interface
 {
     /// <summary>
-    /// RedisBase类，是redis操作的基类，继承自IDisposable接口，主要用于释放内存
+    /// RedisBase类，是redis操作的基类，继承自IDisposable接口，主要用于释放内存 
     /// </summary>
     public abstract class RedisBase : IDisposable
     {

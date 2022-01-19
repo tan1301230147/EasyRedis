@@ -9,7 +9,7 @@ using EasyRedis.Interface;
 namespace EasyRedis.Service
 {
     /// <summary>
-    /// key-value 键值对:value可以是序列化的数据
+    /// key-value 键值对:value可以是序列化的数据 
     /// </summary>
     public class RedisStringService : RedisBase
     {

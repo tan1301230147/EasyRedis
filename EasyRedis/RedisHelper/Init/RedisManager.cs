@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace EasyRedis.Init
 {
     /// <summary>
-    /// Redis管理中心   创建Redis链接
+    /// Redis管理中心   创建Redis链接 
     /// </summary>
     public class RedisManager
     {

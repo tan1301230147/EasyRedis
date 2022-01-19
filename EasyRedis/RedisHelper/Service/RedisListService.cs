@@ -11,7 +11,7 @@ namespace EasyRedis.Service
 {
     /// <summary>
     ///  Redis list的实现为一个双向链表，即可以支持反向查找和遍历，更方便操作，不过带来了部分额外的内存开销，
-    ///  Redis内部的很多实现，包括发送缓冲队列等也都是用的这个数据结构。  
+    ///  Redis内部的很多实现，包括发送缓冲队列等也都是用的这个数据结构。   
     /// </summary>
     public class RedisListService : RedisBase
     {
