@@ -4,7 +4,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <NeutralLanguage>简体中文</NeutralLanguage>
     <Version>1.1.1</Version>
-    <PackageIcon>icon.jpg</PackageIcon>
+    <PackageIcon></PackageIcon>
     <PackageIconUrl />
     <PackageProjectUrl>https://github.com/tan1301230147/EasyRedis</PackageProjectUrl>
     <RepositoryUrl>https://github.com/tan1301230147/EasyRedis</RepositoryUrl>
@@ -12,16 +12,14 @@
     <Copyright>AingZub</Copyright>
     <Description>项目地址：https://github.com/tan1301230147/EasyRedis</Description>
     <RepositoryType>GIT</RepositoryType>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Win32Resource />
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="EasyRedis\**" />
     <EmbeddedResource Remove="EasyRedis\**" />
     <None Remove="EasyRedis\**" />
-    <None Include="..\..\..\..\Desktop\icon.jpg">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
   </ItemGroup>
 
   <ItemGroup>
