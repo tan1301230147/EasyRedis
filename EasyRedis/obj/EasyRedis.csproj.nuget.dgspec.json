@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj": {}
+  },
+  "projects": {
+    "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
+        "projectName": "EasyRedis",
+        "projectPath": "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
+        "packagesPath": "C:\\Users\\Administer\\.nuget\\packages\\",
+        "outputPath": "D:\\B Test\\EasyRedis\\EasyRedis\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ServiceStack.Redis": {
+              "target": "Package",
+              "version": "[5.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <NeutralLanguage>简体中文</NeutralLanguage>
+    <Version>1.0.1</Version>
+    <PackageIcon>icon.jpg</PackageIcon>
+    <PackageIconUrl />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ServiceStack.Redis" Version="5.13.2" />
+  </ItemGroup>
+
+</Project>

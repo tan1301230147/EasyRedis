@@ -1,0 +1,11 @@
+D:\B Test\EasyRedis\EasyRedis\obj\Debug\net5.0\EasyRedis.GeneratedMSBuildEditorConfig.editorconfig
+D:\B Test\EasyRedis\EasyRedis\obj\Debug\net5.0\EasyRedis.AssemblyInfoInputs.cache
+D:\B Test\EasyRedis\EasyRedis\obj\Debug\net5.0\EasyRedis.AssemblyInfo.cs
+D:\B Test\EasyRedis\EasyRedis\obj\Debug\net5.0\EasyRedis.csproj.CoreCompileInputs.cache
+D:\B Test\EasyRedis\EasyRedis\bin\Debug\net5.0\EasyRedis.deps.json
+D:\B Test\EasyRedis\EasyRedis\bin\Debug\net5.0\EasyRedis.dll
+D:\B Test\EasyRedis\EasyRedis\bin\Debug\net5.0\ref\EasyRedis.dll
+D:\B Test\EasyRedis\EasyRedis\bin\Debug\net5.0\EasyRedis.pdb
+D:\B Test\EasyRedis\EasyRedis\obj\Debug\net5.0\EasyRedis.dll
+D:\B Test\EasyRedis\EasyRedis\obj\Debug\net5.0\ref\EasyRedis.dll
+D:\B Test\EasyRedis\EasyRedis\obj\Debug\net5.0\EasyRedis.pdb
