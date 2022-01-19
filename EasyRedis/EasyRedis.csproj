@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <NeutralLanguage>简体中文</NeutralLanguage>
-    <Version>1.1.1</Version>
+    <Version>1.1.2</Version>
     <PackageIcon></PackageIcon>
     <PackageIconUrl />
     <PackageProjectUrl>https://github.com/tan1301230147/EasyRedis</PackageProjectUrl>
