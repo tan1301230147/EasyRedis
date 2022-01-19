@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj": {}
+    "C:\\Users\\Administer\\Source\\Repos\\EasyRedis\\EasyRedis\\EasyRedis.csproj": {}
   },
   "projects": {
-    "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj": {
+    "C:\\Users\\Administer\\Source\\Repos\\EasyRedis\\EasyRedis\\EasyRedis.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
+        "projectUniqueName": "C:\\Users\\Administer\\Source\\Repos\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
         "projectName": "EasyRedis",
-        "projectPath": "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
+        "projectPath": "C:\\Users\\Administer\\Source\\Repos\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
         "packagesPath": "C:\\Users\\Administer\\.nuget\\packages\\",
-        "outputPath": "D:\\B Test\\EasyRedis\\EasyRedis\\obj\\",
+        "outputPath": "C:\\Users\\Administer\\Source\\Repos\\EasyRedis\\EasyRedis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administer\\AppData\\Roaming\\NuGet\\NuGet.Config",

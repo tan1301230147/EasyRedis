@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iElki6X4M9y1U5ppTWy97ynQpNRWDafJk46oKEMrB9IHgItFS3leCZMZ98Ja138o9m8Y97F4/nTAbSlqQDBH4w==",
+  "dgSpecHash": "Pe/YsThoT6/Itn5n3U7R713SDZwhYKuWzn5U9jBHCVWq4kA+IZYDOVWUQImZ6bHhCHWCsZteTOxNhtq9qhTGVA==",
   "success": true,
-  "projectFilePath": "D:\\B Test\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
+  "projectFilePath": "C:\\Users\\Administer\\Source\\Repos\\EasyRedis\\EasyRedis\\EasyRedis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Administer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

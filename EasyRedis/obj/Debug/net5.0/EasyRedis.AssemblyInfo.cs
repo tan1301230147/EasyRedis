@@ -18,6 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("EasyRedis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyRedis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/tan1301230147/EasyRedis")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("简体中文")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
